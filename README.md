@@ -11,3 +11,6 @@ This repository contains my Python learning journey including:
 - Functions
 - Arrays
 - Linked List
+
+## Author
+-Himanshee 

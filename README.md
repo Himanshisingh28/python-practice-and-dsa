@@ -1,7 +1,7 @@
 # Python Practice & DSA
 
 This repository contains my Python learning journey including:
-- Core Python basics
+- Python basics
 - Data Structures & Algorithms
 - Practice problems
 

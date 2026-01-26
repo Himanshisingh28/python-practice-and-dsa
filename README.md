@@ -10,6 +10,7 @@ This repository contains my Python learning journey including:
 - Conditionals
 - Functions
 - Arrays
+- Two pointers 
 - Linked List
 
 ## Author

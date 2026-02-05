@@ -4,6 +4,7 @@ This repository contains my Python learning journey including:
 - Python basics
 - Data Structures & Algorithms
 - Practice problems
+- for practice purpose
 
 ## Topics Covered
 - Loops
@@ -12,6 +13,8 @@ This repository contains my Python learning journey including:
 - Arrays
 - Two pointers 
 - Linked List
+- String
+- Two pointer
 
 ## Author
 Himanshee 

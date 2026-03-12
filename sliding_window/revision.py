@@ -37,7 +37,26 @@ class Solution(object):
         return max_len
         
 
+class Solution(object):
+    def minSubArrayLen(self, target, nums):
+        low=0
+        high=0
+        window_sum=0
+        n=len(nums)
+        res=float('inf')
+        for high in range(0,n):
 
+            window_sum=window_sum+nums[high]
+
+            while window_sum>=target:
+                len1=high-low+1
+                res=min(res,len1)
+                window_sum=window_sum-nums[low]
+                low+=1
+            high+=1
+        if res==float('inf'):
+            return 0
+        return res
 
 
 

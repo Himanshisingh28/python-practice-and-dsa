@@ -7,6 +7,7 @@ This repository contains my Python learning journey including and show my daily 
 - for practice purpose
 
 ## Topics Covered
+- sliding Window
 - Loops
 - Conditionals
 - Functions

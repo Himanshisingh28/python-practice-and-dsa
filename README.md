@@ -6,6 +6,8 @@ I am learning DSA with the help of Patterns.
 - Data Structures & Algorithms
 - Practice problems
 - for practice purpose
+- for gain knowledge
+- Faang
 
 ## Topics Covered
 - sliding Window

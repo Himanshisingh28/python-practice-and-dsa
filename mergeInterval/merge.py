@@ -17,3 +17,6 @@ class Solution(object):
             end1=end2
         res.append([start1, end1])
         return res
+    
+    # output:
+intervals = [[1,3],[2,6],[8,10],[15,18]]

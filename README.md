@@ -52,16 +52,6 @@ I am actively working towards mastering **Data Structures & Algorithms** for top
 * LeetCode Practice
 * Pattern-based Questions
 
----
-
-## Practice Strategy
-
-* 📌 Daily coding practice
-* 📌 Focus on pattern recognition
-* 📌 Writing clean & optimized code
-* 📌 Revising previously solved problems
-
----
 
 ##  Platforms Used
 

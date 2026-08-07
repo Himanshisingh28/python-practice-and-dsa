@@ -20,3 +20,4 @@ class Solution(object):
         n = len(nums)
         memo = [[-1] * 2 for _ in range(n)]
         return self.houseRobber(nums, n, 0, 1, memo)
+        
